@@ -29,30 +29,7 @@ This project serves as an API backend for an Ecommerce store, allowing you to pe
 
 - Node.js (at least version 12)
 - MySQL database
-
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/ecommerce-store-express.git
-Install dependencies:
-git a
-
-API Endpoints
-GET /products: Retrieve a list of all products.
-GET /products/:id: Retrieve a single product by ID.
-POST /products: Create a new product.
-PUT /products/:id: Update product information by ID.
-DELETE /products/:id: Delete a product by ID.
-Technologies Used
-Express.js: Web framework for building the API.
-MySQL: Database for storing product information.
-Sequelize: ORM for interacting with the MySQL database.
-Body-parser: Middleware for parsing incoming request bodies.
-CORS: Middleware for enabling Cross-Origin Resource Sharing.
-Contributing
-Contributions are welcome! If you find any issues or want to add new features, please open an issue or submit a pull request.
+git
 
 License
 This project is licensed under the MIT License.
