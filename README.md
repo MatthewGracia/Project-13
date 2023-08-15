@@ -37,19 +37,7 @@ This project serves as an API backend for an Ecommerce store, allowing you to pe
    ```bash
    git clone https://github.com/your-username/ecommerce-store-express.git
 Install dependencies:
-
-bash
-Copy code
-cd ecommerce-store-express
-npm install
-Set up your MySQL database and configure the connection settings in config/database.js.
-
-Run the application:
-
-bash
-Copy code
-npm start
-The API will be accessible at http://localhost:3000.
+git a
 
 API Endpoints
 GET /products: Retrieve a list of all products.
